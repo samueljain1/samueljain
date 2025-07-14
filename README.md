@@ -35,7 +35,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**serverless-spot-bridge**](#) | Auto‑scales AWS Spot Instances for EKS to cut compute cost by **40%**. | Go · AWS Lambda · Terraform |
+| [**serverless-spot-bridge**](https://raw.githubusercontent.com/samueljain1/samueljain/main/serverless-spot-bridge) | Auto‑scales AWS Spot Instances for EKS to cut compute cost by **40%**. | Go · AWS Lambda · Terraform |
 | [**multi-region-terraform-module**](#) | Reusable module to provision VPC, ALB, RDS across 3 regions via a single config. | Terraform · AWS |
 | [**gitops-bootstrap**](#) | Zero‑touch GitOps pipeline deploying to EKS with ArgoCD & GitHub Actions. | Kubernetes · ArgoCD · GitHub Actions |
 
