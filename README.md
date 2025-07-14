@@ -20,7 +20,7 @@
 ## 🛠️ Toolbox
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@aws-sdk/types@3.840.0/dist-cjs/index.min.js" width="40" />
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/aws/aws-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
