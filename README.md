@@ -5,7 +5,7 @@
 
 ---
 
-![header](https://raw.githubusercontent.com/<your-username>/<your-username>/main/banner.png)
+![header](https://raw.githubusercontent.com/samueljain1/samueljain1/main/banner.png)
 
 ## 🧭 About Me
 
