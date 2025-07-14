@@ -2,8 +2,8 @@
 
 > **Automatically scale AWS Spot Instances for EKS workloads to reduce compute cost by up to 40%**
 
-![CI](https://img.shields.io/github/actions/workflow/status/yourusername/serverless-spot-bridge/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/yourusername/serverless-spot-bridge)
+![CI](https://img.shields.io/github/actions/workflow/status/samueljain/serverless-spot-bridge/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/samueljain1/serverless-spot-bridge)
 ![Go Version](https://img.shields.io/badge/Go-1.21-blue)
 ![Made with Terraform](https://img.shields.io/badge/Made%20with-Terraform-5F43DC?logo=terraform)
 
@@ -73,7 +73,7 @@ Powered by **AWS Lambda**, **EventBridge**, and **Golang**, this solution integr
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/serverless-spot-bridge.git
+git clone https://github.com/samueljain1/serverless-spot-bridge.git
 cd serverless-spot-bridge
 
 
@@ -103,10 +103,6 @@ If you liked this project, give it a ⭐ and connect with me on LinkedIn
 
 ---
 
-### ✅ What to Do Next:
-- Replace `yourusername` and `yourhandle` with your GitHub details.
-- Add a `LICENSE` and optionally a `CONTRIBUTING.md`.
-- Push this as `README.md` inside your `serverless-spot-bridge` repo.
 
 Need a matching project diagram or want help wiring up the CI workflow (`ci.yml`) too?
 
