@@ -1,46 +1,13 @@
-# 👋 Hey there, I'm **\<YOUR NAME>**
+<h1 align="center">Hi 👋, I'm Samuel Jain</h1>
+<h3 align="center">A passionate Devops + AWS from India</h3>
 
-> ***Transforming ideas into resilient, self‑healing cloud platforms***
+- 🔭 I’m currently working on **Devops**
 
----
+- 📫 How to reach me **info.samueljain@gmail.com**
 
-## 🧭 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-* 🔭 **Current focus:** Building scalable, cost‑efficient AWS architectures with Terraform & Kubernetes.
-* 🌱 **Learning:** AWS CDK ✨ & GitHub Actions reusable workflows.
-* 🛡️ **Certs:** AWS SAA | CKA *(upload badges once achieved!)*
-* 🗣 **Talks & blogs:** Speaker at local AWS UG ✈️, writing on *Medium* about CI/CD best practices.
-* ⚡ **Fun fact:** I automate my home lights with serverless Lambdas & MQTT.
-
-## 🛠️ Toolbox
-
-| Cloud | Co | CI/ | ntainers | IaCCD | Observability | Languages |
-| ----- | -- | --- | -------- | ----- | ------------- | --------- |
-|       |    |     |          |       |               |           |
-|       |    |     |          |       |               |           |
-
-## 🚀 Highlight Projects
-
-| Project                           | What I built                                                                             | Tech                             |
-| --------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------- |
-| **serverless-spot-bridge**        | Auto‑scales AWS Spot Instances for EKS to slash compute cost by **40%**.                 | Go • Terraform • Helm            |
-| **multi‑region‑terraform‑module** | Reusable module provisioning VPC, ALB, RDS across 3 regions with a single variable file. | Terraform ‑ AWS                  |
-| **gitops‑bootstrap**              | Zero‑touch GitOps pipeline deploying apps to EKS via ArgoCD & GitHub Actions.            | Kubernetes • ArgoCD • GH Actions |
-
-> 👉 Pin these repos to your profile so they appear at the top!
-
-## 📊 GitHub Stats
-
-## 📝 Latest Blog Posts
-
-> This section auto‑updates every 24 h via GitHub Actions. See [blog‑sync.yml](.github/workflows/blog-sync.yml).
-
-## 🌐 Connect With Me
-
-* Twitter / X: [@yourhandle](https://twitter.com/yourhandle)
-* LinkedIn: [in/\<YOUR\_LINKEDIN>](https://linkedin.com/in/<YOUR_LINKEDIN>)
-* Personal site: [https://yourdomain.dev](https://yourdomain.dev)
-
----
-
-Last updated on {{ "now" | date: "%B %d, %Y" }}
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
